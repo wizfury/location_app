@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624062743865",
+    "project_id": "loactionapp-3c198",
+    "storage_bucket": "loactionapp-3c198.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624062743865:android:bbc3ad8a3b5469b1cf54e8",
+        "android_client_info": {
+          "package_name": "com.example.location_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgLs_Fg1oEviUodvS9UjBZPXz8Oju9XCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
